@@ -20,5 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "File Transfer"
-include ':Phone'
-include ':Watch'
+include ':app'
+include ':wear'
+include ':datastorelib'
+include ':shared'
